@@ -1,0 +1,20 @@
+{
+  "songs": [
+    {
+      "id": "song_1",
+      "file": "song_1.mp3"
+    },
+    {
+      "id": "song_2",
+      "file": "song_2.mp3"
+    },
+    {
+      "id": "song_3",
+      "file": "song_3.mp3"
+    },
+    {
+      "id": "song_4",
+      "file": "song_4.mp3"
+    }
+  ]
+}
